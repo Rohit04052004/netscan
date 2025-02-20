@@ -1,0 +1,6 @@
+train: C:\Users\rohit\OneDrive\Desktop\net_kill_device\badminton_net_fault_detection\yolov5\data\train
+val: C:\Users\rohit\OneDrive\Desktop\net_kill_device\badminton_net_fault_detection\yolov5\data\test
+
+nc: 1  # Number of classes
+names: ['net']
+
